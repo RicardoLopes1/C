@@ -1,13 +1,12 @@
-<h1>Competitive Programming in C++ language</h1>
 
-<b>
+# Competitive Programming in C++ language
+
 This repository contains NepsAcademy platform exercise resolution codes.
-</b>
-<pre>
 
-</pre>
-<b>I hope that you like it.</b>
-<pre>
+## Others
 
-</pre>
+It is a random directory. laughs.
+> for more information explore the directory.
+
+<i>I hope that you like it.</i>
 <i>Thank you for your attention.</i>
