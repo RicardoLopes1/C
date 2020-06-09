@@ -13,7 +13,7 @@ int main(){
     cin >> n;
     eh_primo = crivo(n);
 
-    for(LL i=0; i<=n; i++){
+    for(LL i=2; i<=n; i++){
         if(eh_primo[i])
             cout << i << " ";
     }
