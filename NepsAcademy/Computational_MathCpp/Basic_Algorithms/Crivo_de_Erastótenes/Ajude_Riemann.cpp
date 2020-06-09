@@ -8,17 +8,16 @@ typedef long long int LL;
 vector<bool> crivo(LL n);
 
 int main(){
-    LL n, j=0 ;
+    LL n;
     vector<LL> n_primo;
-    vector<bool> eh_primo;
-    eh_primo = crivo(1000000);
+    vector<bool> e_primo;
     
-
-    for(LL i=2; i<=n; i++){
-        if(eh_primo[i]){
+    e_primo = crivo(12000000);
+    
+    for(LL i=2; i<=12000000; i++){
+        if(e_primo[i]){
             n_primo.push_back(i); 
         }
-            
     }
     
     cin >> n;
